@@ -62,5 +62,29 @@
     { "type":"Feature","properties":{"letter":"A"},"geometry":{"type":"LineString","coordinates":[[8.70,51.22],[8.72,51.26],[8.74,51.22]]}},
     { "type":"Feature","properties":{"letter":"A"},"geometry":{"type":"LineString","coordinates":[[8.71,51.24],[8.73,51.24]]}},
 
-    { "type":"Feature","properties":{"letter":"N"},"geometry":{"type":"LineString","coordinates":[[8.78,51.22],[8.78,51.26],[8.82,51.22],[8.82,51.26]]}}
+    { "type":"Feature","properties":{"letter":"N"},"geometry":{"type":"LineString","coordinates":[[8.78,51.22],[8.78,51.26],[8.82,51.22],[8.82,51.26]]}},
+
+{ "type":"Feature","properties":{"letter":"U"},"geometry":{"type":"LineString","coordinates":[[8.26,51.18],[8.26,51.14],[8.30,51.14],[8.30,51.18]]}},
+{ "type":"Feature","properties":{"letter":"U"},"geometry":{"type":"LineString","coordinates":[[8.26,51.18],[8.26,51.14]]}},
+{ "type":"Feature","properties":{"letter":"U"},"geometry":{"type":"LineString","coordinates":[[8.30,51.18],[8.30,51.14]]}},
+
+{ "type":"Feature","properties":{"letter":"N"},"geometry":{"type":"LineString","coordinates":[[8.34,51.14],[8.34,51.18],[8.38,51.14],[8.38,51.18]]}},
+
+{ "type":"Feature","properties":{"letter":"D"},"geometry":{"type":"LineString","coordinates":[[8.42,51.14],[8.42,51.18],[8.45,51.17],[8.45,51.15],[8.42,51.14]]}},
+
+{ "type":"Feature","properties":{"letter":"A"},"geometry":{"type":"LineString","coordinates":[[8.50,51.14],[8.52,51.18],[8.54,51.14]]}},
+{ "type":"Feature","properties":{"letter":"A"},"geometry":{"type":"LineString","coordinates":[[8.51,51.16],[8.53,51.16]]}},
+
+{ "type":"Feature","properties":{"letter":"N"},"geometry":{"type":"LineString","coordinates":[[8.58,51.14],[8.58,51.18],[8.62,51.14],[8.62,51.18]]}},
+
+{ "type":"Feature","properties":{"letter":"D"},"geometry":{"type":"LineString","coordinates":[[8.66,51.14],[8.66,51.18],[8.69,51.17],[8.69,51.15],[8.66,51.14]]}},
+
+{ "type":"Feature","properties":{"letter":"R"},"geometry":{"type":"LineString","coordinates":[[8.74,51.14],[8.74,51.18],[8.77,51.18],[8.77,51.16],[8.74,51.16]]}},
+{ "type":"Feature","properties":{"letter":"R"},"geometry":{"type":"LineString","coordinates":[[8.74,51.16],[8.78,51.14]]}},
+
+{ "type":"Feature","properties":{"letter":"E"},"geometry":{"type":"LineString","coordinates":[[8.82,51.18],[8.82,51.14]]}},
+{ "type":"Feature","properties":{"letter":"E"},"geometry":{"type":"LineString","coordinates":[[8.82,51.18],[8.86,51.18]]}},
+{ "type":"Feature","properties":{"letter":"E"},"geometry":{"type":"LineString","coordinates":[[8.82,51.16],[8.85,51.16]]}},
+{ "type":"Feature","properties":{"letter":"E"},"geometry":{"type":"LineString","coordinates":[[8.82,51.14],[8.86,51.14]]}}
+
 ]}
